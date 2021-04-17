@@ -25,7 +25,7 @@ cv.imshow('RGB',np.hstack([CH1B,CH2G,CH3R]))'''
 
 #------------------------------------------------
 
-image=cv.imread('pitogue.jpg')
+image=cv.imread('pitogue5.jpg')
 
 gris=cv.cvtColor(image,cv.COLOR_BGR2GRAY)
 
