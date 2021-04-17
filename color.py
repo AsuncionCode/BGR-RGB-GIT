@@ -29,7 +29,7 @@ image=cv.imread('pitogue5.jpg')
 
 gris=cv.cvtColor(image,cv.COLOR_BGR2GRAY)
 
-cv.imshow('GRIS',gris)
+
 
 cv.imshow('Original', image)
 
